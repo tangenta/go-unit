@@ -1,7 +1,7 @@
 package unit
 
-// Unit is a alias of struct{}.
+// Unit is an alias of struct{}.
 type Unit struct{}
 
-// UnitVal is a instance of Unit
+// UnitVal is an instance of Unit.
 var UnitVal = Unit{}
